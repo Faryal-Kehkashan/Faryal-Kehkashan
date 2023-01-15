@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Faryal-Kehkashan
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning React.js, Node.js
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate...
 - 📫 How to reach me, through LinkedIn (https://www.linkedin.com/in/faryal-kehkashan-3b4272229)
 
